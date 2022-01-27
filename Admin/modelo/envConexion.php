@@ -6,7 +6,7 @@
       // $passw = "yOLtH_qK?8gt";
 
       //conexion en local
-      $databaseName = "bdcampaign";
+      $databaseName = "volunteer";
       $servidor = "localhost";
       $user = "root";
       $passw = "";

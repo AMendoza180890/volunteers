@@ -21,10 +21,10 @@
                         <div class="short_contact_list">
                             <ul>
                                 <li>
-                                    <a href="#"> <i class="fa fa-envelope"></i> info@docmed.com</a>
+                                    <a href="mailto:info@tesorosdedios.org"> <i class="fa fa-envelope"></i> info@tesorosdedios.org</a>
                                 </li>
                                 <li>
-                                    <a href="#"> <i class="fa fa-phone"></i> 160160</a>
+                                    <a href="tel:50587123456"> <i class="fa fa-phone">(505)8712-3456</i></a>
                                 </li>
                             </ul>
                         </div>
@@ -38,41 +38,55 @@
                     <div class="col-xl-3 col-lg-2">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="vista/img/logo.png" alt="">
+                                <img src="vista/img/tdd/TDDlogo3jpg.jpg" style="height:40px;" alt="Tesoros de Dios Logo">
                             </a>
                         </div>
                     </div>
-                    <div class="col-xl-6 col-lg-7">
+                    <div class="col-xl-6-edit col-lg-7">
                         <div class="main-menu  d-none d-lg-block">
                             <nav>
                                 <ul id="navigation">
-                                    <li><a class="active" href="index.html">home</a></li>
-                                    <li><a href="Department.html">Department</a></li>
-                                    <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                        <ul class="submenu">
-                                            <li><a href="blog.html">blog</a></li>
-                                            <li><a href="single-blog.html">single-blog</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                        <ul class="submenu">
-                                            <li><a href="elements.html">elements</a></li>
-                                            <li><a href="about.html">about</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="Doctors.html">Doctors</a></li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a class="active" href="https://www.tesorosdedios.org">home</a></li>
+                                    <li><a href="#">About Us <i class="ti-angle-down"></i></a>
+                                    <ul class="submenu">
+                                        <li><a href="https://www.tesorosdedios.org">Mission</a></li>
+                                        <li><a href="https://www.tesorosdedios.org">How We Work</a></li>
+                                        <li><a href="https://www.tesorosdedios.org">Who We Are</a></li>
+                                        <li><a href="https://www.tesorosdedios.org">History</a></li>
+                                        <li><a href="https://www.tesorosdedios.org">Annual Report 2020 Rpt</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#">Programs <i class="ti-angle-down"></i></a>
+                                <ul class="submenu">
+                                    <li><a href="elements.html">Principal Programs</a></li>
+                                    <li><a href="about.html">Services</a></li>
+                                    <li><a href="about.html">Outreach</a></li>
+                                    <li><a href="about.html">Library</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Get Involved <i class="ti-angle-down"></i></a>
+                            <ul class="submenu">
+                                <li><a href="elements.html">Support</a></li>
+                                <li><a href="about.html">Prayer Partners</a></li>
+                                <li><a href="about.html">Donate</a></li>
+                                <li><a href="about.html">Volunteers</a></li>
+                                <li><a href="about.html">COVID-19</a></li>
+                            </ul>
+                        </li>
+                                    <li><a href="https://www.tesorosdedios.org">Contact Us</a></li>
+                                    <li><a href="contact.html">Sponsor</a></li>
+                                    <li><a href="Doctors.html">Donate</a></li>
                                 </ul>
                             </nav>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-lg-3 d-none d-lg-block">
+                    <!-- <div class="col-xl-3 col-lg-3 d-none d-lg-block">
                         <div class="Appointment">
                             <div class="book_btn d-none d-lg-block">
                                 <a class="popup-with-form" href="#test-form">Make an Appointment</a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-12">
                         <div class="mobile_menu d-block d-lg-none"></div>
                     </div>

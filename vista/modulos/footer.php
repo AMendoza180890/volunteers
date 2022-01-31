@@ -7,7 +7,7 @@
                     <div class="footer_widget">
                         <div class="footer_logo">
                             <a href="#">
-                                <img src="vista/img/footer_logo.png" alt="">
+                                <img src="vista/img/tdd/TDDlogo2png.png" style="height:60px;" alt="Tesoros de Dios logo">
                             </a>
                         </div>
                         <p>
@@ -38,14 +38,12 @@
                 <div class="col-xl-2 offset-xl-1 col-md-6 col-lg-3">
                     <div class="footer_widget">
                         <h3 class="footer_title">
-                            Departments
+                            Interested
                         </h3>
                         <ul>
-                            <li><a href="#">Eye Care</a></li>
-                            <li><a href="#">Skin Care</a></li>
-                            <li><a href="#">Pathology</a></li>
-                            <li><a href="#">Medicine</a></li>
-                            <li><a href="#">Dental</a></li>
+                            <li><a href="about.html">Home</a></li>
+                            <li><a href="elements.html">Support</a></li>
+                            <li><a href="about.html">Prayer Partners</a></li>
                         </ul>
 
                     </div>
@@ -53,14 +51,11 @@
                 <div class="col-xl-2 col-md-6 col-lg-2">
                     <div class="footer_widget">
                         <h3 class="footer_title">
-                            Useful Links
+                            Support
                         </h3>
                         <ul>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#"> Contact</a></li>
-                            <li><a href="#"> Appointment</a></li>
+                            <li><a href="about.html">Donate</a></li>
+                            <li><a href="contact.html">Sponsor</a></li>
                         </ul>
                     </div>
                 </div>
@@ -70,7 +65,7 @@
                             Address
                         </h3>
                         <p>
-                            200, D-block, Green lane USA <br> +10 367 467 8934 <br> docmed@contact.com
+                            Km 13 Carretera Vieja a León, Managua, Nicaragua <br> <a href="tel:50587123456"> <span style="color: #c7c7c7;">(505)8712-3456</span></a> <br> <a href="mailto:info@tesorosdedios.org"><span style="color:#c7c7c7">info@tesorosdedios.org</span></a>
                         </p>
                     </div>
                 </div>
@@ -87,7 +82,7 @@
                         Copyright &copy;
                         <script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        </script> All rights reserved | <a href="https://www.tesorosdedios.org" target="_blank">Tesoros de Dios</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </p>
                 </div>

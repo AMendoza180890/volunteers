@@ -7,9 +7,9 @@
                     <div class="icon">
                         <i class="flaticon-electrocardiogram"></i>
                     </div>
-                    <h3>Hospitality</h3>
+                    <h3>Individual</h3>
                     <p>Clinical excellence must be the priority for any health care service provider.</p>
-                    <a href="#" class="boxed-btn3-white">Apply For a Bed</a>
+                    <a href="#" class="boxed-btn3-white">More Information</a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4">
@@ -17,9 +17,9 @@
                     <div class="icon">
                         <i class="flaticon-emergency-call"></i>
                     </div>
-                    <h3>Emergency Care</h3>
+                    <h3>Team</h3>
                     <p>Clinical excellence must be the priority for any health care service provider.</p>
-                    <a href="#" class="boxed-btn3-white">+10 672 356 3567</a>
+                    <a href="#" class="boxed-btn3-white">More Information</a>
                 </div>
             </div>
             <div class="col-xl-4 col-md-4">
@@ -27,9 +27,9 @@
                     <div class="icon">
                         <i class="flaticon-first-aid-kit"></i>
                     </div>
-                    <h3>Chamber Service</h3>
+                    <h3>Internship</h3>
                     <p>Clinical excellence must be the priority for any health care service provider.</p>
-                    <a href="#" class="boxed-btn3-white">Make an Appointment</a>
+                    <a href="#" class="boxed-btn3-white">More Information</a>
                 </div>
             </div>
         </div>

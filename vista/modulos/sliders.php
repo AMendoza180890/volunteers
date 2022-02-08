@@ -10,9 +10,9 @@
                      <div class="row">
                          <div class="col-xl-12">
                              <div class="slider_text ">
-                                 <h3> <span>Health care</span> <br> For Hole Family </h3>
+                                 <h3> <span>Volunteer</span> <br> Individual </h3>
                                  <p>In healthcare sector, service excellence is the facility of <br> the hospital as healthcare service provider to consistently.</p>
-                                 <a href="#" class="boxed-btn3">Check Our Services</a>
+                                 <a href="#" class="boxed-btn3">More Information</a>
                              </div>
                          </div>
                      </div>
@@ -23,9 +23,9 @@
                      <div class="row">
                          <div class="col-xl-12">
                              <div class="slider_text ">
-                                 <h3> <span>Health care</span> <br> For Hole Family </h3>
+                                 <h3> <span>Volunteer</span> <br> Team </h3>
                                  <p>In healthcare sector, service excellence is the facility of <br> the hospital as healthcare service provider to consistently.</p>
-                                 <a href="#" class="boxed-btn3">Check Our Services</a>
+                                 <a href="#" class="boxed-btn3">More Information</a>
                              </div>
                          </div>
                      </div>
@@ -36,9 +36,9 @@
                      <div class="row">
                          <div class="col-xl-12">
                              <div class="slider_text ">
-                                 <h3> <span>Health care</span> <br> For Hole Family </h3>
+                                 <h3> <span>Volunteer</span> <br> Internship </h3>
                                  <p>In healthcare sector, service excellence is the facility of <br> the hospital as healthcare service provider to consistently.</p>
-                                 <a href="#" class="boxed-btn3">Check Our Services</a>
+                                 <a href="#" class="boxed-btn3">More Information</a>
                              </div>
                          </div>
                      </div>

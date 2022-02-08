@@ -1,6 +1,7 @@
 <!-- testmonial_area_start -->
 <div class="testmonial_area">
     <div class="testmonial_active owl-carousel">
+
         <div class="single-testmonial testmonial_bg_1 overlay2">
             <div class="container">
                 <div class="row">
@@ -20,6 +21,7 @@
                 </div>
             </div>
         </div>
+
         <div class="single-testmonial testmonial_bg_2 overlay2">
             <div class="container">
                 <div class="row">
@@ -39,6 +41,7 @@
                 </div>
             </div>
         </div>
+
         <div class="single-testmonial testmonial_bg_1 overlay2">
             <div class="container">
                 <div class="row">
@@ -58,6 +61,7 @@
                 </div>
             </div>
         </div>
+        
     </div>
 </div>
 <!-- testmonial_area_end -->

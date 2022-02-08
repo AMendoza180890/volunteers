@@ -11,7 +11,8 @@
     include_once 'modulos/testimonial.php';
     include_once 'modulos/business.php';
     include_once 'modulos/experts.php';
-    include_once 'modulos/emergencyContact.php';
+    // include_once 'modulos/emergencyContact.php';
+    include_once 'modulos/contact.php';
 
     //Footer 
     include_once 'modulos/footer.php';

@@ -4,8 +4,8 @@
         <div class="d-flex justify-content-center">
             <div class="col-xl-6 col-md-6 single_emergency d-flex align-items-center justify-content-center flex-column overlay_skyblue">
                 <div class="d-inline-flex flex-column align-items-center">
-                    <h3>Be part to our familly</h3>
-                    <p>complete our formulary, We want to know about you</p>
+                    <h3>Join us in Nicaragua</h3>
+                    <p>complete our form to learn more about volunteer Tesoros</p>
                 </div>
                 <div class="info_button">
                 <form>
@@ -26,24 +26,33 @@
                         <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone Number">
                     </div>
 
-                    <div class="form-group">
-                        <label for="email">Email</label>
-                        <input type="text" class="form-control" id="email" name="email" placeholder="email" require>
-                    </div>
-
-                    <div class="form-group">
-                        <label for="tvolunteer">Type Volunteer</label>
-                        <select class="form-control" id="tvolunteer" name="tvolunteer">
-                        <option>Individual</option>
-                        <option>Team</option>
-                        <option>Intership</option>
-                        </select>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="text" class="form-control" id="email" name="email" placeholder="email" require>
+                            </div>
+                        </div>
+                        
+                        <div class="col">
+                            <div class="form-group">
+                                <label for="tvolunteer">Type Volunteer</label>
+                                <select id="tvolunteer" name="tvolunteer" class="form-control">
+                                    <option selected>Open this select menu</option>
+                                    <option value="1">One</option>
+                                    <option value="2">Two</option>
+                                    <option value="3">Three</option>
+                                </select>
+                            </div>
+                        </div>
                     </div>
 
                     <div class="form-group">
                         <label for="description">Description</label>
                         <textarea class="form-control" name="description" id="description" cols="87" rows="5"></textarea>
                     </div>
+
+                    <button class="btn btn-primary" type="submit">Submit form</button>
 
                     </form>
                 </div>

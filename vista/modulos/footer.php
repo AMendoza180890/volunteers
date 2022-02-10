@@ -11,23 +11,28 @@
                             </a>
                         </div>
                         <p>
-                            Firmament morning sixth subdue darkness creeping gathered divide.
+                            ¡Subscribe, follow and Join Us!
                         </p>
                         <div class="socail_links">
                             <ul>
                                 <li>
-                                    <a href="#">
-                                        <i class="ti-facebook"></i>
+                                <a href="https://www.instagram.com/tesorosdediosni" target="_blank">
+                                        <i class="fa fa-instagram"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
+                                    <a href="https://twitter.com/tesorosdediosni" target="_blank">
                                         <i class="ti-twitter-alt"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#">
-                                        <i class="fa fa-instagram"></i>
+                                    <a href="https://facebook.com/tesorosdediosni" target="_blank">
+                                        <i class="ti-facebook"></i>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/channel/UCb51xiHzozNL4SRvntxx4xA" target="_blank">
+                                        <i class="fa fa-youtube"></i>
                                     </a>
                                 </li>
                             </ul>

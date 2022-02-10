@@ -6,14 +6,20 @@
                 <div class="row">
                     <div class="col-xl-6 col-md-6 ">
                         <div class="social_media_links">
-                            <a href="#">
-                                <i class="fa fa-linkedin"></i>
+                            <a href="https://www.instagram.com/tesorosdediosni" target="_blank">
+                                    <i class="fa fa-instagram"></i>
                             </a>
-                            <a href="#">
-                                <i class="fa fa-facebook"></i>
+
+                            <a href="https://twitter.com/tesorosdediosni" target="_blank">
+                                <i class="ti-twitter-alt"></i>
                             </a>
-                            <a href="#">
-                                <i class="fa fa-google-plus"></i>
+
+                            <a href="https://facebook.com/tesorosdediosni" target="_blank">
+                                <i class="ti-facebook"></i>
+                            </a>
+
+                            <a href="https://www.youtube.com/channel/UCb51xiHzozNL4SRvntxx4xA" target="_blank">
+                                <i class="fa fa-youtube"></i>
                             </a>
                         </div>
                     </div>

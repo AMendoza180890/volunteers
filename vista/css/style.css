@@ -1,6 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700&display=swap");
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_extend.scss */
+html {
+  scroll-behavior: smooth;
+}
+
 .flex-center-start {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -668,6 +672,10 @@ h3 {
     font-size: 30px;
     line-height: 36px;
   }
+  /* Ocultar cuadro */
+  .parrafo2 {
+    display: none;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -1255,12 +1263,12 @@ h3 {
 
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/Voluntario2.jpg);
 }
 
 /* line 4, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner2.png);
+  background-image: url(../img/banner/Voluntario2.jpg);
 }
 
 /* line 8, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_slider.scss */
@@ -2853,7 +2861,7 @@ h3 {
 
 /* line 58, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_tesmonial.scss */
 .testmonial_bg_1 {
-  background-image: url(../img/testmonial/1.png);
+  background-image: url(../img/banner/frase.jpg);
 }
 
 /* line 61, C:/Users/SPN Graphics/Desktop/CL September/210 Medical/HTML/scss/_tesmonial.scss */

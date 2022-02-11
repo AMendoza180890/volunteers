@@ -10,15 +10,18 @@
                      <div class="row">
                          <div class="col-xl-12">
                              <div class="slider_text ">
-                                 <h3> <span>Volunteer</span> <br> Individual </h3>
-                                 <p>In healthcare sector, service excellence is the facility of <br> the hospital as healthcare service provider to consistently.</p>
-                                 <a href="#" class="boxed-btn3">More Information</a>
+                                 <h3 style="color:#fff;"> <span>Volunteer</span> <br> Programs </h3>
+                                 <p style="color:#fff;">There are many ways that you can volunteer with Tesoros de Dios. <br> Get involved and make a difference today!.</p>
+                                 <p class="parrafo2" style="color:#fff;">Our ministry exists because of the hundreds of dedicated volunteers <br> who have served over the years.<br> We are so grateful for your support and participation as we share <br> the gospel and serve those affected by disability in Nicaragua.<br> <br> 
+                                    Thank you!
+                                </p>
+                                 <!-- <a href="#" class="boxed-btn3">More Information</a> -->
                              </div>
                          </div>
                      </div>
                  </div>
              </div>
-             <div class="single_slider  d-flex align-items-center slider_bg_1">
+             <!-- <div class="single_slider  d-flex align-items-center slider_bg_1">
                  <div class="container">
                      <div class="row">
                          <div class="col-xl-12">
@@ -43,7 +46,7 @@
                          </div>
                      </div>
                  </div>
-             </div>
+             </div> -->
          </div>
      </div>
      <!-- slider_area_end -->

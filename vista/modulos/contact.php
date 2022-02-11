@@ -1,7 +1,7 @@
 <!-- Start formulario de contacto -->
-<div class="Emergency_contact">
+<div class="Emergency_contact" id="formulary">
     <div class="conatiner-fluid p-0">
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center overlay_skyblue">
             <div class="col-xl-6 col-md-6 single_emergency d-flex align-items-center justify-content-center flex-column overlay_skyblue">
                 <div class="d-inline-flex flex-column align-items-center text-center">
                     <h3>Join us in Nicaragua</h3>

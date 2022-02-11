@@ -7,14 +7,12 @@
                 <div class="row">
                     <div class="col-xl-10 offset-xl-1">
                         <div class="testmonial_info text-center">
-                            <div class="quote">
+                            <!-- <div class="quote">
                                 <i class="flaticon-straight-quotes"></i>
-                            </div>
-                            <p>Donec imperdiet congue orci consequat mattis. Donec rutrum porttitor <br> sollicitudin. Pellentesque id dolor tempor sapien feugiat ultrices nec sed neque.
-                                <br> Fusce ac mattis nulla. Morbi eget ornare dui.
-                            </p>
+                            </div> -->
+                            <p style="font-size: 2em;">Alone we can do so little; together we can do so much.</p>
                             <div class="testmonial_author">
-                                <h4>Asana Korim</h4>
+                                <h4>Helen Keller</h4>
                             </div>
                         </div>
                     </div>
@@ -22,7 +20,7 @@
             </div>
         </div>
 
-        <div class="single-testmonial testmonial_bg_2 overlay2">
+        <!-- <div class="single-testmonial testmonial_bg_2 overlay2">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-10 offset-xl-1">
@@ -60,8 +58,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-        
+        </div> -->
+
     </div>
 </div>
 <!-- testmonial_area_end -->

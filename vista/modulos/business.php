@@ -1,5 +1,5 @@
 <!-- business_expert_area_start  -->
-<div class="business_expert_area">
+<!-- <div class="business_expert_area">
     <div class="business_tabs_area">
         <div class="container">
             <div class="row">
@@ -22,7 +22,7 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
     <div class="container">
         <div class="border_bottom">
             <div class="tab-content" id="myTabContent">
@@ -31,9 +31,9 @@
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-md-6">
                             <div class="business_info">
-                                <div class="icon">
+                                <!-- <div class="icon">
                                     <i class="flaticon-first-aid-kit"></i>
-                                </div>
+                                </div> -->
                                 <h3>Leading edge care for Your family</h3>
                                 <p>Esteem spirit temper too say adieus who direct esteem. It esteems luckily picture placing drawing. Apartments frequently or motionless on reasonable projecting expression.
                                 </p>
@@ -46,7 +46,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                <!-- <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-md-6">
                             <div class="business_info">
@@ -83,7 +83,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

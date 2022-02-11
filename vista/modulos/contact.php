@@ -12,40 +12,45 @@
                         <div class="form-group">
                             <div class="row">
                                 <div class="col">
-                                <label for="fname">First Name</label>
-                                <input type="text" class="form-control" id="fname" name="fname" placeholder="First name" require>
+                                <label for="fname" style="color: #000;">First Name</label>
+                                <input type="text" class="form-control" id="fname" name="fname" placeholder="First name" required>
                                 </div>
                                 <div class="col">
-                                <label for="lname">Last Name</label>
-                                <input type="text" class="form-control" id="lname" name="lname" placeholder="Last name" require>
+                                <label for="lname" style="color: #000;">Last Name</label>
+                                <input type="text" class="form-control" id="lname" name="lname" placeholder="Last name" required>
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
-                            <label for="phone">Phone Number</label>
+                            <label for="phone" style="color: #000;">Phone Number</label>
                             <input type="text" class="form-control" id="phone" name="phone" placeholder="Phone Number">
                         </div>
                             
                         <div class="form-group">
-                            <label for="email">Email and Type of Volunteer</label>
-                            <input type="text" class="form-control" id="email" name="email" placeholder="email" require>
+                            <label for="email" style="color: #000;">Email and Type of Volunteer</label>
+                            <input type="text" class="form-control" id="email" name="email" placeholder="email" required>
                         </div>
                             
                         <div class="input-group mb-3">
                             <div class="input-group-prepend">
-                                <label class="input-group-text" for="tvolunteer">Options</label>
+                                <label class="input-group-text" style="color: #000;" for="tvolunteer">Options</label>
                             </div>
-                            <select class="custom-select" id="tvolunteer" name="tvolunteer">
-                                <option selected>Choose...</option>
+                            <select required class="custom-select" id="tvolunteer" name="tvolunteer" >
+                                <option value="">Choose...</option>
                                 <option value="1">Individual</option>
                                 <option value="2">Team</option>
                                 <option value="3">Intership</option>
                             </select>
                         </div>
+
+                        <div class="form-group" id="leader">
+                            <label for="resposable" style="color: #000;">Leader Group Name</label>
+                            <input type="text" name="responsable" id="responsable" class="form-control"/>
+                        </div>
                             
                         <div class="form-group">
-                            <label for="description">Comment About</label>
-                            <textarea class="form-control" name="description" id="description" cols="87" rows="5"></textarea>
+                            <label for="description" style="color: #000;">Comment About</label>
+                            <textarea class="form-control" name="description" id="description" cols="87" rows="5" required></textarea>
                         </div>
 
                         <div class="modal-footer">

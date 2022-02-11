@@ -39,8 +39,22 @@
         }
 
     });
-    $(document).ready(function() {
-        $('.js-example-basic-multiple').select2();
+    // $(document).ready(function() {
+    //     $('.js-example-basic-multiple').select2();
+    // });
+    // se inicializa en escondido el input
+     $(document).ready(function () {
+      $("#leader").hide();
+     });
+
+     // se evalua el input select option su opcion y dependiendo muestra o se esconde el input de responsable de equipo
+    $(document).on('change', '#tvolunteer', function() {
+     let opcion = $("#tvolunteer option:selected").text();
+        if(opcion == "Team"){
+            $("#leader").show();
+        }else{
+            $("#leader").hide();
+        }
     });
 </script>
 </body>

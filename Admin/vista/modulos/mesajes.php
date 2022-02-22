@@ -3,16 +3,16 @@
   <!-- Content Header (Page header) -->
   <section class="content-header">
     <h1>
-      Gestor de Secciones
+      Gestor de Mensajes
     </h1>
   </section>
   <!-- Main content -->
   <section class="content">
     <!-- Default box -->
     <div class="box">
-      <div class="box-header with-border">
-        <button class="btn btn-primary" data-toggle="modal" data-target="#crearseccion">Agregar Articulos</button>
-      </div>
+      <!-- <div class="box-header with-border">
+        <button class="btn btn-primary" data-toggle="modal" data-target="#crearseccion">Gestor de Mensajes</button>
+      </div> -->
       <div class="box-body">
         <table class="table table-bordered table-hover table-striped TablaUsuario" id="tbl">
           <thead>
@@ -20,18 +20,16 @@
               <th>Nº</th>
               <th>Titulo</th>
               <th>Descripcion</th>
-              <th>Cantidad</th>
-              <th>Estado</th>
               <th>Editar/Desactivar</th>
             </tr>
           </thead>
           <tbody>
             <?php
-            $mostrarUsuarios = new seccionC;
-            $mostrarUsuarios->listadeseccion();
+            $mostrarUsuarios = new mensajeC;
+            $mostrarUsuarios->listademensaje();
 
-            $valor = null;
-            $editarUsuario = seccionC::editarRegistroseccionC($valor);
+            // $valor = null;
+            // $editarUsuario = mensajeC::editarRegistroseccionC($valor);
             ?>
           </tbody>
         </table>
@@ -43,9 +41,9 @@
   <!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
-<?php include 'crearseccion.php'; ?>
-<?php include 'editseccion.php'; ?>
+<?php include 'crearMensaje.php'; ?>
+<?php include 'editMensaje.php'; ?>
 <?php
-$desactivarSeccion = new seccionC;
-$desactivarSeccion -> DesactivarseccionC();
+// $desactivarSeccion = new mensajeC;
+// $desactivarSeccion -> desactivarMensaje();
 ?>

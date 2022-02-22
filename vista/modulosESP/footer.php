@@ -11,7 +11,7 @@
                             </a>
                         </div>
                         <p>
-                            ¡Subscribe, follow and Join Us!
+                            ¡Subscribete, siguenos y Unetenos!
                         </p>
                         <div class="socail_links">
                             <ul>
@@ -46,8 +46,8 @@
                             Interested
                         </h3>
                         <ul>
-                            <li><a href="about.html">Home</a></li>
-                            <li><a href="elements.html">Support</a></li>
+                            <li><a href="about.html">Inicio</a></li>
+                            <li><a href="elements.html">Apoyo</a></li>
                             <li><a href="about.html">Prayer Partners</a></li>
                             <li>
                                 <a href="ENG"><img src="vista/img/bandera/eng.png" style="height:30px; width:30px;" alt="English Version"></a>
@@ -59,11 +59,11 @@
                 <div class="col-xl-2 col-md-6 col-lg-2">
                     <div class="footer_widget">
                         <h3 class="footer_title">
-                            Support
+                            Apoyanos
                         </h3>
                         <ul>
-                            <li><a href="about.html">Donate</a></li>
-                            <li><a href="contact.html">Sponsor</a></li>
+                            <li><a href="about.html">Donar</a></li>
+                            <li><a href="contact.html">Conviertete en un Patrocinador</a></li>
                         </ul>
                     </div>
                 </div>

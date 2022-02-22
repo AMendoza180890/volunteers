@@ -10,15 +10,9 @@
                 </a>
             </li>
             <li>
-                <a href="titulo">
-                    <i class="fa fa-header"></i>
-                    <span>Titulo</span>
-                </a>
-            </li>
-            <li>
-                <a href="catseccion">
-                    <i class="fa fa-align-justify"></i>
-                    <span>Secciones</span>
+                <a href="mensaje">
+                    <i class="fa fa-align-message"></i>
+                    <span>mensajes</span>
                 </a>
             </li>
             <li>
@@ -27,47 +21,7 @@
                     <span>Usuarios</span>
                 </a>
             </li>
-            <!--<li>
-                <a href="#">
-                    <i class="fa fa-home"></i>
-                    <span>Opcion 3</span>
-                </a>
-            </li>
-
-            <li class="treeview">
-                <a href="#">
-                    <i class="fa fa-list-ul"></i>
-                    <span>Desplegable</span>
-
-                    <span class="pull-right-container">
-                        <i class="fa fa-angle-left pull-right"></i>
-                    </span>
-                </a>
-                <ul class="treeview-menu">
-                    <li>
-                        <a href="#">
-                            <span>opcion 1</span>
-                        </a>
-                    </li>
-
-                    <li>
-                        <a href="#">
-                            <span>opcion 2</span>
-                        </a>
-                    </li>
-                </ul>
-            </li>
-
-            <li>
-                <a href="#">
-                    <i class="fa fa-home"></i>
-                    <span>Mensajes</span>
-                </a>
-            </li> -->
-
-
         </ul>
-
     </section>
     <!-- /.sidebar -->
 </aside>

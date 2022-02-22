@@ -28,7 +28,7 @@
                             
                         <div class="form-group">
                             <label for="email" style="color: #000;">Email and Type of Volunteer</label>
-                            <input type="text" class="form-control" id="email" name="email" placeholder="email" required>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="email" required>
                         </div>
                             
                         <div class="input-group mb-3">

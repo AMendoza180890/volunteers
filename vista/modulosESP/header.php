@@ -30,7 +30,10 @@
                                     <a href="mailto:info@tesorosdedios.org"> <i class="fa fa-envelope"></i> info@tesorosdedios.org</a>
                                 </li>
                                 <li>
-                                    <a href="tel:50587123456"> <i class="fa fa-phone">(505)8712-3456</i></a>
+                                    <a href="tel:50522654038"> <i class="fa fa-phone">(505)2265-4038</i></a>
+                                </li>
+                                <li>
+                                    <a href="ENG"><img src="vista/img/bandera/eng.png" style="height:30px; width:30px;" alt="English Version"></a>
                                 </li>
                             </ul>
                         </div>

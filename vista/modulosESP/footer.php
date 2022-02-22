@@ -49,6 +49,9 @@
                             <li><a href="about.html">Home</a></li>
                             <li><a href="elements.html">Support</a></li>
                             <li><a href="about.html">Prayer Partners</a></li>
+                            <li>
+                                <a href="ENG"><img src="vista/img/bandera/eng.png" style="height:30px; width:30px;" alt="English Version"></a>
+                            </li>
                         </ul>
 
                     </div>
@@ -70,7 +73,7 @@
                             Address
                         </h3>
                         <p>
-                            Km 13 Carretera Vieja a León, Managua, Nicaragua <br> <a href="tel:50587123456"> <span style="color: #c7c7c7;">(505)8712-3456</span></a> <br> <a href="mailto:info@tesorosdedios.org"><span style="color:#c7c7c7">info@tesorosdedios.org</span></a>
+                            Km 13 Carretera Vieja a León, Managua, Nicaragua <br> <a href="tel:50522654038"> <span style="color: #c7c7c7;">(505)2265-4038</span></a> <br> <a href="mailto:info@tesorosdedios.org"><span style="color:#c7c7c7">info@tesorosdedios.org</span></a>
                         </p>
                     </div>
                 </div>

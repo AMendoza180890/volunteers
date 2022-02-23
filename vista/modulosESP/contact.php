@@ -37,9 +37,9 @@
                             </div>
                             <select required class="custom-select" id="tvolunteer" name="tvolunteer" >
                                 <option value="">Elige...</option>
-                                <option value="1">Individuo</option>
-                                <option value="2">Equipo</option>
-                                <option value="3">Pasantia o Practica Profesional</option>
+                                <option value="Individuo">Individuo</option>
+                                <option value="Equipo">Equipo</option>
+                                <option value="Pasante o Practica Profesional">Pasantia o Practica Profesional</option>
                             </select>
                         </div>
 
@@ -56,6 +56,10 @@
                         <div class="modal-footer">
                             <button type="submit" class="btn btn-primary w-100 p-3">Enviar</button>
                         </div>
+                        <?php
+                            $aplicarMensaje = new mensajeclassC();
+                            $aplicarMensaje -> guardarMensaje();
+                        ?>
                     </form>
                 </div>
             </div>
@@ -63,18 +67,3 @@
     </div>
 </div>
 <!-- End formulario de contacto -->
-
-
-<!-- elementos extras para eliminar -->
-
-<!-- <div class="col-xl-6">
-                <div class="single_emergency d-flex align-items-center justify-content-center emergency_bg_2 overlay_skyblue">
-                    <div class="info">
-                        <h3>Make an Online Appointment</h3>
-                        <p>Esteem spirit temper too say adieus.</p>
-                    </div>
-                    <div class="info_button">
-                        <a href="#" class="boxed-btn3-white">Make an Appointment</a>
-                    </div>
-                </div>
-</div> -->

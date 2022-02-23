@@ -10,8 +10,8 @@
                 </a>
             </li>
             <li>
-                <a href="mensaje">
-                    <i class="fa fa-align-message"></i>
+                <a href="mensajes">
+                    <i class="fa fa-envelope-o"></i>
                     <span>mensajes</span>
                 </a>
             </li>

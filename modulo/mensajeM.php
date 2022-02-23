@@ -15,6 +15,8 @@ class mensajeclassM extends conexionBD{
             $pdo->bindParam(":nombreLiderGrupo",$datosMensaje["liderGrupo"],PDO::PARAM_STR);
             $pdo->bindParam(":comentario",$datosMensaje["comentario"],PDO::PARAM_STR);
 
+            // echo '<script>console.log("llega a modelo de guardar")</script>';
+
             return ($pdo->execute()?true:false);
 
         } catch (Exception $ex) {

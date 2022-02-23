@@ -5,6 +5,6 @@
         'login' => "login" , 
         'salir' => "salir" , 
         'titulo' => 'titulo',
-        'catseccion'=> 'catseccion'
+        'mensajes'=> 'mensajes'
     ]
 ?>

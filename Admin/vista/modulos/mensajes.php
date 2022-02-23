@@ -18,8 +18,12 @@
           <thead>
             <tr>
               <th>Nº</th>
-              <th>Titulo</th>
-              <th>Descripcion</th>
+              <th>Nombre</th>
+              <th>Apellido</th>
+              <th>tipo Voluntario</th>
+              <th>Telefono</th>
+              <th>Email</th>
+              <th>Comentarios</th>
               <th>Editar/Desactivar</th>
             </tr>
           </thead>

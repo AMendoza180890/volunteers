@@ -30,8 +30,11 @@ class mensajeclassC{
     public static function enviarMensajeEmail($nombre,$apellido,$telf,$mail,$tipoVoluntario,$liderGrupo,$comentario){
         try {
             $to = $mail;
+            //$additional_headers = "";
             $subject = "Informacion de Formulario de Voluntario";
             $headers = "MIME-Version: 1.0" . "\r\n";
+            $headers .= "From: sponsor@tesorosdedios.org" . "\r\n" ;
+            $headers .= "CC: tecnologia@tesorosdedios.org". "\r\n" ;
             $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
             
             $message = "<html>

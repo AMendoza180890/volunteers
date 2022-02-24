@@ -29,6 +29,7 @@ class mensajeclassC{
 
     public static function enviarMensajeEmail($nombre,$apellido,$telf,$mail,$tipoVoluntario,$liderGrupo,$comentario){
         try {
+            
             $to = $mail;
             //$additional_headers = "";
             $subject = "Informacion de Formulario de Voluntario";

@@ -5,16 +5,16 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="welcome_thumb">
                     <div class="thumb_1">
-                        <img src="vista/img/about/1.png" alt="">
+                        <img src="vista/img/about/v1.png"  alt="">
                     </div>
                     <div class="thumb_2">
-                        <img src="vista/img/about/2.png" alt="">
+                        <img src="vista/img/about/v3.png" alt="">
                     </div>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="welcome_docmed_info">
-                    <h2 style="font-size:2em;">Pasantía y Prácticas  profesionales</h2>
+                    <h2 style="font-size:2em;">Pasantía y Prácticas profesionales</h2>
                     <p>Tesoros de Dios ofrece oportunidades de pasantías y prácticas profesionales para que estudiantes universitarios y profesionales puedan venir a Tesoros de Dios y aprender mientras hacen conexiones de la vida real con sus estudios. Los pasantes ayudan en las distintas áreas de nuestro Centro en Managua y proporcionan un apoyo invaluable, para continuar con nuestra visión de ayudar a cada niño con discapacidad a alcanzar su máximo potencial. Durante este tiempo, los pasantes crecerán espiritualmente y se desarrollarán como líderes mientras se divierten.</p>
                     <p>Los pasantes deben presentar:</p>
                     <ul>

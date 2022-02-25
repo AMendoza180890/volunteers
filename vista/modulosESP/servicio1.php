@@ -4,12 +4,13 @@
         <div class="row">
             <div class="col-xl-6 col-lg-6">
                 <div class="welcome_thumb">
-                    <div class="thumb_1">
+                    <!-- <div class="thumb_1">
                         <img src="vista/img/about/v1.png"  alt="">
-                    </div>
-                    <div class="thumb_2">
-                        <img src="vista/img/about/v3.png" alt="">
-                    </div>
+                    </div> -->
+                    <img src="vista/img/about/v1.png" style="width:100%" alt="">
+                    <!-- <div class="thumb_2">
+                        <img src="vista/img/about/v1.png" style="width:100%" alt="">
+                    </div> -->
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">

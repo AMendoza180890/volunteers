@@ -29,7 +29,7 @@
                 <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
 
                     <div class="row align-items-center">
-                        <div class="col-xl-6 col-md-6">
+                        <div class="col-xl-6 col-md-6 order-1 order-md-0">
                             <div class="business_info">
                                 <!-- <div class="icon">
                                     <i class="flaticon-first-aid-kit"></i>
@@ -39,7 +39,7 @@
                                 </p>
                             </div>
                         </div>
-                        <div class="col-xl-6 col-md-6">
+                        <div class="col-xl-6 col-md-6 order-0 order-md-1">
                             <div class="business_thumb">
                                 <img src="vista/img/about/business.png" alt="">
                             </div>

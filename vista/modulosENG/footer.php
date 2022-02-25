@@ -7,7 +7,7 @@
                     <div class="footer_widget">
                         <div class="footer_logo">
                             <a href="#">
-                                <img src="vista/img/tdd/TDDlogo2png.png" style="height:60px;" alt="Tesoros de Dios logo">
+                                <img src="vista/img/tdd/TDDLogo2png.png" style="height:60px;" alt="Tesoros de Dios logo">
                             </a>
                         </div>
                         <p>
@@ -16,7 +16,7 @@
                         <div class="socail_links">
                             <ul>
                                 <li>
-                                <a href="https://www.instagram.com/tesorosdediosni" target="_blank">
+                                    <a href="https://www.instagram.com/tesorosdediosni" target="_blank">
                                         <i class="fa fa-instagram"></i>
                                     </a>
                                 </li>

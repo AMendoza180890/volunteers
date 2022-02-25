@@ -1,13 +1,13 @@
 <?php
       // en variables
-      // $databaseName = "tesorosd_bdbibliotecatdd";
-      // $servidor = "localhost";
-      // $user = "tesorosd_library";
-      // $passw = "yOLtH_qK?8gt";
+       $DATABASENAME = "tesorosd_bdvolunteers";
+       $SERVIDOR = "localhost";
+       $USER = "tesorosd_adminv";
+       $PASSW = "3kaBZmmJ90zR";
 
       //conexion en local
-      $databaseName = "bdvolunteers";
-      $servidor = "localhost";
-      $user = "root";
-      $passw = "";
+      // $databaseName = "bdvolunteers";
+      // $servidor = "localhost";
+      // $user = "root";
+      // $passw = "";
 ?>

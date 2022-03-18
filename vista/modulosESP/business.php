@@ -34,9 +34,12 @@
                                 <!-- <div class="icon">
                                     <i class="flaticon-first-aid-kit"></i>
                                 </div> -->
-                                <h3>Leading edge care for Your family</h3>
-                                <p>Esteem spirit temper too say adieus who direct esteem. It esteems luckily picture placing drawing. Apartments frequently or motionless on reasonable projecting expression.
-                                </p>
+                                <h3>Testimonio de Voluntario</h3>
+                                <cite>La primera vez que visité Tesoros, pude sentir el Espíritu de Dios fluyendo a través de la gente. Cada persona tenía esta alegría y amor que irradiaba de ellos y se derramó en cada estudiante que asistió. El Señor está trabajando en Tesoros para hacer que los niños se sientan amados y hacer un cambio, y yo tenía que ser parte de eso.
+                                </cite>
+                                <author>
+                                Jessica Walvoort
+                                </author>
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6 order-0 order-md-1">

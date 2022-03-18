@@ -34,9 +34,12 @@
                                 <!-- <div class="icon">
                                     <i class="flaticon-first-aid-kit"></i>
                                 </div> -->
-                                <h3>Leading edge care for Your family</h3>
-                                <p>Esteem spirit temper too say adieus who direct esteem. It esteems luckily picture placing drawing. Apartments frequently or motionless on reasonable projecting expression.
-                                </p>
+                                <h3>Volunteer Testomony</h3>
+                                <cite>The fist time I visited Tesoros, I could feel the Spirit of God flowing through the people. Eeach person had this joy and love radiating from them and it poured into each student who attended. The Lord is working at Tesoros to make children feel loved and make a change, and I had to be a part of that.
+                                </cite>
+                                <author>
+                                -Jessica Walvoort
+                                </author>
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6">

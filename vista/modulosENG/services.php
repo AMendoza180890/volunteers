@@ -8,7 +8,7 @@
                         <img src="vista/img/services/christianity.png" alt="individual and Team" class="col-xl-2 col-md-2">
                     </div>
                     <h3 style="color:black" >Individual and Team</h3>
-                    <p style="color:black" >Clinical excellence must be the priority for any health care service provider.</p>
+                    <p style="color:black" >Come join us in Managua and see fisthand how the gospel is transforming lives!.</p>
                     <a href="#teamvolunteer" class="boxed-btn3-white">More Information</a>
                 </div>
             </div>
@@ -18,7 +18,7 @@
                         <img src="vista/img/services/church.png" alt="Internship" class="col-xl-2 col-md-2">
                     </div>
                     <h3 style="color:black">Internship</h3>
-                    <p style="color:black">Clinical excellence must be the priority for any health care service provider.</p>
+                    <p style="color:black">Come grow with God, love others, and make a difference in the world.</p>
                     <a href="#internship" class="boxed-btn3-white">More Information</a>
                 </div>
             </div>

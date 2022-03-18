@@ -46,9 +46,9 @@
                             Interested
                         </h3>
                         <ul>
-                            <li><a href="about.html">Inicio</a></li>
-                            <li><a href="elements.html">Apoyo</a></li>
-                            <li><a href="about.html">Prayer Partners</a></li>
+                            <li><a href="https://tesorosdedios.org/language/es/inicio/">Inicio</a></li>
+                            <li><a href="https://tesorosdedios.org/language/es/apoyar/">Apoyo</a></li>
+                            <li><a href="https://tesorosdedios.org/prayer-partners/">Prayer Partners</a></li>
                             <li>
                                 <a href="ENG"><img src="vista/img/bandera/eng.png" style="height:30px; width:30px;" alt="English Version"></a>
                             </li>
@@ -62,8 +62,8 @@
                             Apoyanos
                         </h3>
                         <ul>
-                            <li><a href="about.html">Donar</a></li>
-                            <li><a href="contact.html">Conviertete en un Patrocinador</a></li>
+                            <li><a href="https://tesorosdedios.kindful.com/?campaign=1084951">Donar</a></li>
+                            <li><a href="https://tesorosdedios.org/language/es/patrocinio-de-ninos/">Conviertete en un Patrocinador</a></li>
                         </ul>
                     </div>
                 </div>

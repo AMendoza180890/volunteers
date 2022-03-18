@@ -55,7 +55,7 @@
                         <div class="main-menu  d-none d-lg-block">
                             <nav>
                                 <ul id="navigation">
-                                    <li><a class="active" href="https://www.tesorosdedios.org">home</a></li>
+                                    <li><a class="active" href="https://tesorosdedios.org/">home</a></li>
                                     <li><a href="#">About Us <i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
                                             <li><a href="https://www.tesorosdedios.org">Mission</a></li>
@@ -67,24 +67,23 @@
                                     </li>
                                     <li><a href="#">Programs <i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
-                                            <li><a href="elements.html">Principal Programs</a></li>
-                                            <li><a href="about.html">Services</a></li>
-                                            <li><a href="about.html">Outreach</a></li>
-                                            <li><a href="about.html">Library</a></li>
+                                            <li><a href="https://tesorosdedios.org/principle-programs/">Principal Programs</a></li>
+                                            <li><a href="https://tesorosdedios.org/services/">Services</a></li>
+                                            <li><a href="https://tesorosdedios.org/outreach-2/">Outreach</a></li>
+                                            <li><a href="https://www.biblioteca.tesorosdedios.org/ingreso">Library</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">Get Involved <i class="ti-angle-down"></i></a>
                                         <ul class="submenu">
-                                            <li><a href="elements.html">Support</a></li>
-                                            <li><a href="about.html">Prayer Partners</a></li>
-                                            <li><a href="about.html">Donate</a></li>
-                                            <li><a href="about.html">Volunteers</a></li>
-                                            <li><a href="about.html">COVID-19</a></li>
+                                            <li><a href="https://tesorosdedios.org/pray/">Support</a></li>
+                                            <li><a href="https://tesorosdedios.org/prayer-partners/">Prayer Partners</a></li>
+                                            <li><a href="https://tesorosdedios.kindful.com/?campaign=1084951">Donate</a></li>
+                                            <li><a href="https://tesorosdedios.org/covid19/">COVID-19</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="https://www.tesorosdedios.org">Contact Us</a></li>
-                                    <li><a href="contact.html">Sponsor</a></li>
-                                    <li><a href="Doctors.html">Donate</a></li>
+                                    <li><a href="https://tesorosdedios.org/child-sponsorship/">Sponsor</a></li>
+                                    <li><a href="https://tesorosdedios.kindful.com/?campaign=1084951">Donate</a></li>
                                 </ul>
                             </nav>
                         </div>
